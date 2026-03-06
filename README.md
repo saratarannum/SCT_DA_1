@@ -34,7 +34,7 @@ The goal was to transform raw sales data into meaningful insights using Pivot Ta
 
 ## Dashboard Preview
 
-![Dashboard](dashboard.png)
+![Dashboard](Dashboard.png)
 
 ## Learning Outcome
 
